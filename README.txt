@@ -1,4 +1,4 @@
-Password-Cracker
+# Password-Cracker
 
 This is a simple password cracker in python, and uses a dictionary attack
 
