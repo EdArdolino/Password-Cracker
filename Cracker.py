@@ -1,7 +1,7 @@
 import hashlib
 
 flag = 0
-counter = 0;
+counter = 0
 
 pass_hash = input ("Enter MD5 hash: ")
 
